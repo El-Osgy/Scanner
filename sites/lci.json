@@ -1,0 +1,44 @@
+{
+    "site": "http://www.lci.fr",
+    "destination": "lci",
+
+    "pages": [
+      	[
+	        "accueil",
+	        ""
+      	],
+      	[
+	        "sports",
+	        "autres-sports"
+      	]
+    ],
+
+	"viewports": [
+	    [
+	        1440,
+	        900
+	    ],
+	    [
+	        768,
+	        750
+	    ]
+	],
+
+    "profiles_list": {
+    	"active_profile": "big_font",
+    	"profiles": {
+        	"big_font": {
+				"date": "2018-10-23",
+				"logo": "avatar1",
+				"config": "KPws8GekWaWnLvIu9iOqii7En2elup8/v9BVcNkHsYtxzXgIGzaUu0+GYSsv2SS5TxRaLqVNejjyAMYzp3ng+A==",
+				"language": "fr-FR"
+    		},
+        	"change_font": {
+				"date": "2018-10-23",
+				"logo": "avatar3",
+				"config": "+Cde32rPvi/edEQaz8ByGymf2Mgb9UbLDP1RQG5oIFhLRl9zFb75+/s5L72FsDyFs1jR5Wm6eL1fOb8hulcoTNnkFvK3+9FxaBSLyInECS0=",
+				"language": "fr-FR"
+    		}
+		}
+	}
+}

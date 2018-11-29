@@ -1,0 +1,44 @@
+{
+    "site": "http://www.ciqse.fr",
+    "destination": "ciqse",
+
+    "pages": [
+      	[
+	        "accueil",
+	        ""
+      	],
+      	[
+	        "environnement",
+	        "environnement.html"
+      	]
+    ],
+
+	"viewports": [
+	    [
+	        1440,
+	        900
+	    ],
+	    [
+	        768,
+	        750
+	    ]
+	],
+
+    "profiles_list": {
+    	"active_profile": "big_font",
+    	"profiles": {
+        	"change_font": {
+				"date": "2018-10-23",
+				"logo": "avatar3",
+				"config": "+Cde32rPvi/edEQaz8ByGymf2Mgb9UbLDP1RQG5oIFhLRl9zFb75+/s5L72FsDyFs1jR5Wm6eL1fOb8hulcoTNnkFvK3+9FxaBSLyInECS0=",
+				"language": "fr-FR"
+    		},
+    		"Mon profil": {
+    			"date":"2018-11-21",
+    			"logo":"avatar2",
+    			"language":"fr-FR",
+    			"config":"QtbeejhnmcWuSkPgRV069ar1rDhM9h+ygYjWXoMAT/FMWGjq+ZCUDOX/SKd0O+TfvIJ/zN4HAfGRBexxSuQ8a1bRck9g87Yn/4196mPevhLjdbhCsRw1AhvWZlTVLoWqibtU7vwrsY7Fqd8M9Ys0zRg1JpLMp8cf+coLQXVHjH0shzzhu6CCZWs9tjsujfPmFGgUdokgYNieOJwg0J7fuw0aTvOzQ5SoKUGWuDsnU2hHX3PsUexFeuZSC7V7y11DEZPkPjAUw+hB9lOZ2Te1OpJJqyfZbzydpORRL759pLI="
+    		}
+		}
+	}
+}
